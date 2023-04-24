@@ -22,4 +22,4 @@ The script will prompt you to enter the number of wallets you want to generate, 
 # **Disclaimer**
 This script is intended for educational or testing purposes only and should not be used for any malicious or illegal activities. The script is provided as-is without any warranties or guarantees.
 
-[![Language](https://img.shields.io/badge/language-Python-blue.svg)
+![Language](https://img.shields.io/badge/language-Python-blue.svg)
